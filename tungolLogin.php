@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log In</title>
+  <script>
+    function clearForm(){
+        document.getElementById("loginForm").reset();
+    }
+    </script>
+
+</head>
+<body>
+    <h1> LOGIN FORM </h1>
+<form id="loginForm">
+    <table>
+        <tr>
+            <td><label for="tungolUsername" >Username</label></td>
+            <td><input type="text" name="tungolUserName" id="tungolUserName" required></td>
+            </tr>
+
+        <tr>
+            <td><label for="tungolPassword" >Password</label></td>
+            <td><input type="password" name="tungolPassword" id="tungolPassword" required></td>
+            </tr>
+</body>
+</html>
