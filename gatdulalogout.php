@@ -1,6 +1,6 @@
-<html lang="en">
+<!DOCTYPE htmL>
 <head>
-    <title> Log put </title>
+    <title> Log out </title>
 
 </head>
 <body>
