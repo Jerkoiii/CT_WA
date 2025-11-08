@@ -12,6 +12,6 @@
     <h2><a href="gatdulaSubtraction.php" target="mid_column">Subtraction</a></h2>
     <h2><a href="gatdulaMultiplication.php" target="mid_column">Multiplication</a></h2>
     <h2><a href="gatdulaDivision.php" target="mid_column">Division</a></h2> 
-    <h2><a href="gatdulalogout.php" target="mid_column">log out</a></h2> 
+    <h2><a href="gatdulalogout.php" target="_perent">log out</a></h2> 
 </body>
 </html>

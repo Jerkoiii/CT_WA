@@ -23,5 +23,13 @@
             <td><label for="tungolPassword" >Password</label></td>
             <td><input type="password" name="tungolPassword" id="tungolPassword" required></td>
             </tr>
+        <tr>
+            <td>
+                <button type="submit" name="tungolLogin" id="tungolbtn1">Login</button>
+                <button type="button" name="tungolClear" onclick="clearForm()">Clear</button>
+            </td>
+        </tr>
+</table>
+</form>
 </body>
 </html>
