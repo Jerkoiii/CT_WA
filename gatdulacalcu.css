@@ -2,7 +2,7 @@ h1{
     margin-left: 35%;
 }
 button{
-    background-color: #ff99cc; 
+    background-color: #008a22; 
     width: 150px;
     height: fit-content;
     font-size: 20px;
@@ -13,7 +13,8 @@ button{
 
 }
 button:hover{
-    color: #ff0066;
+    background-color: #9aff91;
+    color: #008a22;
 }
 table{
     margin-left: 22%;

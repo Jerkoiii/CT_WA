@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration Form</title>
+    <link rel="stylesheet" href="tungolRegistration.css">
     <script>
         function clrfrm()
         {
@@ -12,6 +13,7 @@
     
 </head>
 <body>
+    <center>
     <h1> REGISTRATION FORM </h1>
     <form action="tungolInsert.php" method="post"> 
         <table> 
@@ -90,5 +92,6 @@
     </h2>
     </table>
     </form>
+    </Center>
 </body>
 </html>
