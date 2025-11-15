@@ -1,12 +1,9 @@
-<html lang="en">
-<head>
-</head>
-<body>
+
 <?php 
 
-    $jerwin = mysqli_connect("localhost", "root", "","tungol_calculator" );
+    $jerwin = mysqli_connect("localhost", "root", "","tungol_proj" );
 
-    if($tungol==false)
+    if($jerwin==false)
         {
             die("ERROR: could not Connect." .mysqli_connect_error());
             
@@ -47,7 +44,3 @@
            
    mysqli_close($jerwin);
    ?>
-
-</body>
-
-</html>
