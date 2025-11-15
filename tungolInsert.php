@@ -6,7 +6,7 @@
 
     $jerwin = mysqli_connect("localhost", "root", "","tungol_calculator" );
 
-    if($jungol==false)
+    if($tungol==false)
         {
             die("ERROR: could not Connect." .mysqli_connect_error());
             
@@ -49,4 +49,5 @@
    ?>
 
 </body>
+
 </html>
