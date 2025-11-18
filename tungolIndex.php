@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <head>
-
+ <link rel="stylesheet" href="tungolIndex.css">
 </head>
 <body>
+     <center>
  <h1> Welcome to my Personalize Calculator</h1>
  <h3> Please click any arithmitic function on the side navigation </h3>
  <p> Just explore and enjoy every minute of this training </p>
 
- <center>
+
 <form>
 <table>
  <tr>
     <td>
         <button type="button" name="Register" class="tungolbt1" onclick="window.location.href='tungolRegistration.php' ">
-            Sing-up
+            Sign-up
         </button>
     </td>
       <td>

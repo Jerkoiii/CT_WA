@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="tungolRegistration.css">
+     <link rel="stylesheet" href="tungolLogin.css">
     <title>Log In</title>
   <script>
     function clearForm(){
@@ -13,8 +13,9 @@
 </head>
 <body>
     <center>
-    <h1> LOGIN FORM </h1>
+   
 <form id="loginForm">
+     <h1> LOGIN FORM </h1>
     <table>
         <tr>
             <td><label for="tungolUsername" >Username</label></td>
@@ -28,7 +29,7 @@
         <tr>
             <td>
                 <button type="submit" name="tungolLogin" id="tungolbtn1">Login</button>
-                <button type="button" name="tungolClear" onclick="clearForm()">Clear</button>
+                <button type="button" name="tungolClear" id="btn2" onclick="clearForm()">Clear</button>
             </td>
         </tr>
 </table>

@@ -2,21 +2,24 @@ Body{
 background-color: #d179fa;
 }
 form{
+    margin-top: 5cm;
     padding: 20px;
     background-color: #e1cbec;
-    width: 30cm;
-    height: 15cm;
+    width: 18cm;
+    height: 8cm;
     border-radius: 15px;
-    font-size: 20px;
 }
 input{
     font-size: 20px;
+}
+label{
+    font-size: 25px;
 }
 button{
     background-color: #008a22; 
     width: 150px;
     height: fit-content;
-    font-size: 20px;
+    font-size: 15px;
     padding: 10px;
     border-radius: 10px;
     color: white;
@@ -26,4 +29,19 @@ button{
 button:hover{
     background-color: #9aff91;
     color: #008a22;
+}
+#btn2{
+    background-color: #008a22; 
+    width: 150px;
+    height: fit-content;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    transition: color 0.3 ease;
+
+}
+#btn2:hover{
+    background-color: #ff7171;
+    color: #ffffff;
 }

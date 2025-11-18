@@ -14,8 +14,8 @@
 </head>
 <body>
     <center>
-    <h1> REGISTRATION FORM </h1>
     <form action="tungolInsert.php" method="post"> 
+        <h1> REGISTRATION FORM </h1>
         <table> 
             <h2>
              <tr>

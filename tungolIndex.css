@@ -1,0 +1,38 @@
+body{
+    background-color: #e1cbec;
+}
+button{
+    height: 50px;
+    width: 100px;
+}
+.tungolbt1{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: fit-content;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    transition: color 0.3 ease;
+
+}
+.tungolbt1:hover{
+    background-color: rgb(255, 156, 90);
+    color: rgb(0, 0, 0);
+}
+.tungolbt2{
+     background-color: #008a22; 
+    width: 150px;
+    height: fit-content;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    transition: color 0.3 ease;
+
+}
+.tungolbt2:hover{
+    background-color: #9aff91;
+    color: #008a22;
+}
+   
