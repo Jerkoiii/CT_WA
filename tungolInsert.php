@@ -1,7 +1,6 @@
-
 <?php 
 
-    $jerwin = mysqli_connect("localhost", "root", "","tungol_proj" );
+    $jerwin = mysqli_connect("localhost", "root", "","tungol_act2acalcu" );
 
     if($jerwin==false)
         {

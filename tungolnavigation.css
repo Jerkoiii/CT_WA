@@ -1,0 +1,21 @@
+body{
+     border: none;
+    background-color: #ffe4ec;
+}
+frame[name="mid_column"] {
+    border: none;
+    background-color: #ffe4ec; 
+}
+h1{
+    margin-left: 27%;
+    font-size: 50px;
+}
+h2 , a{
+    font-size: 30px;
+    text-decoration: none;
+    transition: color 0.3 ease;
+}
+
+a:hover{
+    color: #ff0066;
+}

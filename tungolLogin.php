@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="tungolRegistration.css">
     <title>Log In</title>
   <script>
     function clearForm(){
@@ -11,6 +12,7 @@
 
 </head>
 <body>
+    <center>
     <h1> LOGIN FORM </h1>
 <form id="loginForm">
     <table>
@@ -31,5 +33,6 @@
         </tr>
 </table>
 </form>
+</center>
 </body>
 </html>
